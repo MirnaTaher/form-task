@@ -1,0 +1,58 @@
+/* background color */
+body{
+    background-color: rgb(50, 195, 200);
+    font-family: sans-serif;
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+
+input, textarea{
+    display: block;
+    margin: 10px;
+    border-radius: 7px;
+    width: 80%;
+    border-style: hidden;
+    border-color:rgb(50, 195, 200);
+    padding:10px;
+}
+
+#btn{
+    background-color: rgb(231, 231, 106);
+    width:fit-content;
+    color: rgb(30,30,30);
+    position:absolute;
+    right: 65%;
+    
+}
+
+.putTogether{
+    width: 35%;
+    display: inline;
+
+}
+/* #msg{
+    height: 60px;
+    /* i was trying to make the text at the top left corner but wasn't sure how to */
+
+/* }  */
+span{
+    color:rgb(231, 231, 106);
+}
+
+p, ul,h2{
+    color: white;
+}
+
+div{
+    display: inline-block;
+    margin: 10%;
+
+ }
+
+
+
+
+
